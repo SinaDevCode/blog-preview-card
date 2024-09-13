@@ -6,8 +6,8 @@
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
 ### Links
-- Solution URL: [Repository](https://github.com/SinaDevCode/frontend-mentor/tree/main/blog-perview-card)
-- Live Site URL: [Demo](https://sinadevcode.github.io/frontend-mentor/blog-perview-card/)
+- Solution URL: [Repository](https://github.com/SinaDevCode/blog-preview-card)
+- Live Site URL: [Demo](https://sinadevcode.github.io/blog-preview-card/)
 
 ## Author
 - Frontend Mentor - [@SinaDevCode](https://www.frontendmentor.io/profile/SinaDevCode)
